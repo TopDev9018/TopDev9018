@@ -132,11 +132,11 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=vscode"
+        src="https://skillicons.dev/icons?i=blockchain"
         width="65"
         height="65"
         alt="VsCode" />
-      <br />VsCode
+      <br />blockchain
     </td>
   </tr>
   <tr>
@@ -178,7 +178,7 @@
         width="65"
         height="65"
         alt="Ruby" />
-      <br />Ruby
+      <br />python
     </td>
     <td align="center" width="128">
       <img
